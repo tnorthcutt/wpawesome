@@ -5,7 +5,7 @@
 |__/|__/ .___/\__,_/ |__/|__/\___/____/\____/_/ /_/ /_/\___/ 
       /_/                                                    
 ```
-> A curated list of awesome WordPress stuff
+> A curated list of awesome WordPress stuff for (mostly) developers
 
 [What makes for an awesome thing?](awesome.md)
 
