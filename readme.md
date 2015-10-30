@@ -19,8 +19,6 @@ __Inspired by [awesome](https://github.com/sindresorhus/awesome)__
 - [Libraries](#libraries)
 - [Devtools](#devtools)
 
-
-
 ## Plugins
 
 - [Query Monitor](https://github.com/johnbillion/query-monitor)
@@ -28,11 +26,11 @@ __Inspired by [awesome](https://github.com/sindresorhus/awesome)__
 
 ## Libraries
 
-- [Extended CTPs](https://github.com/johnbillion/extended-cpts)
+- [Extended CPTs](https://github.com/johnbillion/extended-cpts)
 - [Extended Taxonomies](https://github.com/johnbillion/extended-taxos)
 - [CMB2](https://github.com/WebDevStudios/CMB2)
 
-## Devtools
+## Dev Tools
 
 - [VVV](https://github.com/Varying-Vagrant-Vagrants/VVV)
 - [Variable VVV](https://github.com/bradp/vv)
