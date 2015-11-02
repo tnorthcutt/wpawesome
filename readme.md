@@ -1,8 +1,8 @@
 ```                                                             
- _      ______  ____ __      _____  _________  ____ ___  ___ 
+ _      ______  ____ __      _____  _________  ____ ___  ___
 | | /| / / __ \/ __ `/ | /| / / _ \/ ___/ __ \/ __ `__ \/ _ \
 | |/ |/ / /_/ / /_/ /| |/ |/ /  __(__  ) /_/ / / / / / /  __/
-|__/|__/ .___/\__,_/ |__/|__/\___/____/\____/_/ /_/ /_/\___/ 
+|__/|__/ .___/\__,_/ |__/|__/\___/____/\____/_/ /_/ /_/\___/
       /_/                                                    
 ```
 > A curated list of awesome WordPress stuff for (mostly) developers
@@ -29,6 +29,7 @@ __Inspired by [awesome](https://github.com/sindresorhus/awesome)__
 - [Extended CPTs](https://github.com/johnbillion/extended-cpts)
 - [Extended Taxonomies](https://github.com/johnbillion/extended-taxos)
 - [CMB2](https://github.com/WebDevStudios/CMB2)
+- [Timber](https://github.com/jarednova/timber)
 
 ## Dev Tools
 
