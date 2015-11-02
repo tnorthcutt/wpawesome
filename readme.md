@@ -31,6 +31,7 @@ __Inspired by [awesome](https://github.com/sindresorhus/awesome)__
 - [CMB2](https://github.com/WebDevStudios/CMB2)
 - [Timber](https://github.com/jarednova/timber)
 - [TwitterWP](https://github.com/jtsternberg/TwitterWP)
+- [WordPress Shortcode Button](https://github.com/jtsternberg/Shortcode_Button)
 
 ## Dev Tools
 
