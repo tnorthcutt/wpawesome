@@ -31,7 +31,7 @@ __Inspired by [awesome](https://github.com/sindresorhus/awesome)__
 - [Extended CTPs](https://github.com/johnbillion/extended-cpts)
 - [Extended Taxonomies](https://github.com/johnbillion/extended-taxos)
 - [CMB2](https://github.com/WebDevStudios/CMB2)
-- [Timber](http://upstatement.com/timber/)
+- [Timber](https://github.com/jarednova/timber)
 
 ## Devtools
 
