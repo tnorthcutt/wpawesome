@@ -7,7 +7,7 @@
 ```
 > A curated list of awesome WordPress stuff for (mostly) developers
 
-[What makes for an awesome thing?](awesome.md)
+[What makes for an awesome thing?](wpawesome.md)
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
